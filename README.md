@@ -1,2 +1,3 @@
 # Cubethon
  A Cubethon game using Unity 3D tool....
+ Run The Cubethon.exe file to enjoy the game, thanks.
